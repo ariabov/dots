@@ -6,3 +6,9 @@ How to install:
     # Restart terminal
     aa
 
+Development workflow:
+---
+
+1. Make a change
+2. ./update-aliases.sh
+3. Restart terminal
