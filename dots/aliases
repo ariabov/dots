@@ -1,7 +1,7 @@
 # General
 alias aa='open ~/dots && . ~/dots/aliases'
 
-# Git
+# Git (some taken from https://github.com/aziz/dotfiles/blob/master/bash/aliases/git.aliases.bash)
 alias g='git'
 alias gi='git init'
 alias gcl='git clone'
