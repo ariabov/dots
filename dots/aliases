@@ -1,0 +1,19 @@
+# General
+alias aa='open ~/dots && . ~/dots/aliases'
+
+# Git
+alias g='git'
+alias gi='git init'
+alias gcl='git clone'
+alias ga='git add'
+alias gaa='git add . -v'
+alias gau='git add -u -v'
+alias gs='git status'
+alias gl='git pull'
+alias pull='git pull'
+alias gp='git push'
+alias push='git push'
+alias gdw='git diff --color-words'
+alias gc='git commit -v'
+alias gca='git commit -v -a'
+alias gco='git checkout'
