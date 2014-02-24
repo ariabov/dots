@@ -1,3 +1,6 @@
+# Key Bindings
+bind '"\C-]":"\C-e\C-u pbcopy <<"EOF"\n\C-y\nEOF\n"' # Ctrl-] to copy the current line in the terminal to clipboard
+
 # General
 
 alias aa='open ~/dots/aliases && . ~/dots/aliases'
